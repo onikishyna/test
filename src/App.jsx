@@ -12,6 +12,7 @@ import './App.scss';
 
 //   return null;
 // });
+// ...
 
 export const App = () => (
   <div className="section">
